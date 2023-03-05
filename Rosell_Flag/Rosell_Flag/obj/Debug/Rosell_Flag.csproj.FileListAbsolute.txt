@@ -1,0 +1,11 @@
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\bin\Debug\Rosell_Flag.exe.config
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\bin\Debug\Rosell_Flag.exe
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\bin\Debug\Rosell_Flag.pdb
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.Form1.resources
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.Properties.Resources.resources
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.csproj.GenerateResource.cache
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.exe
+C:\Users\johnr\source\repos\Rosell_Flag\Rosell_Flag\obj\Debug\Rosell_Flag.pdb
